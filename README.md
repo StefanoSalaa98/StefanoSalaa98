@@ -73,3 +73,26 @@
 
 ###
 
+<h3 align="center">Progetti in evidenza</h3>
+
+<table>
+  <tr>
+    <td  align="center">
+      <h4>Gattostello</h4>
+      <a href="https://github.com/StefanoSalaa98/Gattostello">
+        <img src="https://github.com/StefanoSalaa98/Gattostello/blob/main/frontend/public/img/screenshot/screenshot.png" alt="Clicca per vedere il progetto" width="400"/><br />
+      </a>
+      Sito web associazione Gattostello ODV per la gestione di un gattile
+    </td>
+    <td  align="center">
+      <h4>Movie App</h4>
+      <a href="https://github.com/StefanoSalaa98/webapp-react">
+        <img src="https://github.com/StefanoSalaa98/webapp-react/blob/main/public/screenshot/screenshot.png" width="400"/><br />
+      </a>
+      Sito web per la gestione di un elenco di film
+    </td>
+  </tr>
+</table>
+
+###
+
